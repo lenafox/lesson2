@@ -1,5 +1,9 @@
 file
+<<<<<<< HEAD
 
 
 
 changes wqeqreresfsf
+=======
+changed
+>>>>>>> master
